@@ -1,14 +1,19 @@
 buildscript {
     repositories {
-        maven {
-            url nexusUrl
-        }
+        maven { url nexusUrl }
     }
+
     dependencies {
-        classpath 'gradle.plugin.org.liquibase:liquibase-gradle-plugin:1.2.4'
+        classpath "gradle.plugin.org.liquibase:liquibase-gradle-plugin:1.2.4"
     }
 }
+
+//mixed style does not work
+plugins {
+    id 'java'
+}
+
+//so it works
+//apply plugin: 'java'
 apply plugin: 'org.liquibase.gradle'
-
-
 
