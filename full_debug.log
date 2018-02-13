@@ -1,0 +1,326 @@
+12:36:17.590 [INFO] [org.gradle.internal.nativeintegration.services.NativeServices] Initialized native services in: /nfs/users/b1859/.gradle/native
+12:36:17.937 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClient] Executing build 76e60da4-83d6-40c4-b51f-a6772434cce1.1 in daemon client {pid=18503}
+12:36:17.949 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface eth2
+12:36:17.950 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+12:36:17.950 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a multicast interface? true
+12:36:17.951 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /10.79.10.94
+12:36:17.952 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote multicast interface eth2
+12:36:17.953 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface eth1
+12:36:17.953 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+12:36:17.954 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a multicast interface? true
+12:36:17.954 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /5.117.98.166
+12:36:17.954 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote multicast interface eth1
+12:36:17.955 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface eth0
+12:36:17.955 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? false
+12:36:17.955 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a multicast interface? true
+12:36:17.956 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote address /5.118.98.159
+12:36:17.956 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding remote multicast interface eth0
+12:36:17.957 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding IP addresses for network interface lo
+12:36:17.957 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a loopback interface? true
+12:36:17.958 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Is this a multicast interface? false
+12:36:17.958 [DEBUG] [org.gradle.internal.remote.internal.inet.InetAddresses] Adding loopback address /127.0.0.1
+12:36:17.968 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:17.974 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:17.980 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:17.984 [INFO] [org.gradle.launcher.daemon.client.DefaultDaemonConnector] Waiting for daemons with canceled builds to become available
+12:36:18.189 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:18.194 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:18.196 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:18.400 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:18.402 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:18.404 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:18.609 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:18.613 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:18.614 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:18.819 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:18.822 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:18.824 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:19.028 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:19.031 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:19.033 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:19.237 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:19.240 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:19.241 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:19.445 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:19.448 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:19.450 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:19.653 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:19.656 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:19.658 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:19.862 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:19.864 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:19.865 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:20.069 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:20.071 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:20.073 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:20.277 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:20.279 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:20.281 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:20.484 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:20.486 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:20.488 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:20.691 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:20.694 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:20.695 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:20.899 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:20.902 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:20.903 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:21.107 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:21.109 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:21.111 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:21.112 [DEBUG] [org.gradle.launcher.daemon.registry.PersistentDaemonRegistry] Getting daemon stop events
+12:36:21.114 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:21.116 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:21.117 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:21.121 [INFO] [org.gradle.launcher.daemon.registry.PersistentDaemonRegistry] Removing 0 daemon stop events from registry
+12:36:21.125 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on daemon addresses registry.
+12:36:21.138 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:21.152 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:21.161 [LIFECYCLE] [org.gradle.launcher.daemon.client.DefaultDaemonConnector] Starting a Gradle Daemon, 1 busy Daemon could not be reused, use --status for details
+12:36:21.229 [DEBUG] [org.gradle.launcher.daemon.client.DefaultDaemonStarter] Using daemon args: [/pool/bhf/opt_java/jdk1.8.0_121/bin/java, -XX:MaxPermSize=512m, -XX:+CMSClassUnloadingEnabled, -XX:+CMSPermGenSweepingEnabled, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=utf-8, -Duser.country=US, -Duser.language=en, -Duser.variant, -cp, /nfs/users/b1859/.sdkman/candidates/gradle/4.5.1/lib/gradle-launcher-4.5.1.jar]
+12:36:21.240 [DEBUG] [org.gradle.launcher.daemon.client.DefaultDaemonStarter] Starting daemon process: workingDir = /nfs/users/b1859/.gradle/daemon/4.5.1, daemonArgs: [/pool/bhf/opt_java/jdk1.8.0_121/bin/java, -XX:MaxPermSize=512m, -XX:+CMSClassUnloadingEnabled, -XX:+CMSPermGenSweepingEnabled, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=utf-8, -Duser.country=US, -Duser.language=en, -Duser.variant, -cp, /nfs/users/b1859/.sdkman/candidates/gradle/4.5.1/lib/gradle-launcher-4.5.1.jar, org.gradle.launcher.daemon.bootstrap.GradleDaemon, 4.5.1]
+12:36:21.286 [INFO] [org.gradle.process.internal.DefaultExecHandle] Starting process 'Gradle build daemon'. Working directory: /nfs/users/b1859/.gradle/daemon/4.5.1 Command: /pool/bhf/opt_java/jdk1.8.0_121/bin/java -XX:MaxPermSize=512m -XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=utf-8 -Duser.country=US -Duser.language=en -Duser.variant -cp /nfs/users/b1859/.sdkman/candidates/gradle/4.5.1/lib/gradle-launcher-4.5.1.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 4.5.1
+12:36:21.286 [DEBUG] [org.gradle.process.internal.DefaultExecHandle] Environment for process 'Gradle build daemon': {PATH=/opt/java/java-1.8.0-oracle/bin:/home/users/b1859/.sdkman/candidates/gradle/current/bin:/home/users/b1859/tools/bin:/home/users/b1859/mc-lin/bin:/home/users/b1859/mc-lin/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin, HISTCONTROL=ignorespace, SDKMAN_VERSION=5.6.1+290, MC_SID=2549, HISTSIZE=10000, JAVA_HOME=/opt/java/java-1.8.0-oracle, zip_output=/home/users/b1859/.sdkman/tmp/973zzLlGZFozM3XsL1xEEaM59VSJ0wzx.zip, TERM=xterm-256color, XFILESEARCHPATH=/usr/dt/app-defaults/%L/Dt, LANG=en_US.UTF-8, G_BROKEN_FILENAMES=1, HISTFILESIZE=999999, MAIL=/var/spool/mail/b1859, TMOUT=14400, LD_LIBRARY_PATH=/home/users/b1859/mc-lin/lib:/home/users/b1859/mc-lin/lib:, COBBLER_SERVER=160.118.26.100, SDKMAN_DIR=/home/users/b1859/.sdkman, LOGNAME=b1859, PWD=/home/users/b1859/gradle/gradle-bug-4310, HISTTIMEFORMAT=%Y.%m.%d.%H.%M : , SDKMAN_CANDIDATES_DIR=/home/users/b1859/.sdkman/candidates, no_proxy=localhost,127.0.0.0/8,arenatest3,10.0.0.0/24, SDKMAN_LEGACY_API=https://api.sdkman.io/1, LESSOPEN=||/usr/bin/lesspipe.sh %s, HISTIGNORE=, SHELL=/bin/bash, CVS_RSH=ssh, SSH_TTY=/dev/pts/5, SSH_CLIENT=10.78.201.23 58784 22, SDKMAN_PLATFORM=Linux64, OLDPWD=/home/users/b1859/.sdkman/candidates/gradle/current, USER=b1859, MC_TMPDIR=/tmp/mc-b1859, SSH_CONNECTION=10.78.201.23 58784 10.79.10.94 22, HOSTNAME=BHF6L208, NLSPATH=/usr/dt/lib/nls/msg/%L/%N.cat, binary_input=/home/users/b1859/.sdkman/tmp/973zzLlGZFozM3XsL1xEEaM59VSJ0wzx.bin, MC_DATADIR=/home/users/b1859/mc-lin/share/mc, LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:, HOME=/home/users/b1859, SHLVL=2, SDKMAN_CURRENT_API=https://api.sdkman.io/2}
+12:36:21.287 [DEBUG] [org.gradle.process.internal.DefaultExecHandle] Changing state to: STARTING
+12:36:21.294 [DEBUG] [org.gradle.process.internal.DefaultExecHandle] Waiting until process started: Gradle build daemon.
+12:36:21.340 [DEBUG] [org.gradle.process.internal.DefaultExecHandle] Changing state to: STARTED
+12:36:21.341 [INFO] [org.gradle.process.internal.DefaultExecHandle] Successfully started process 'Gradle build daemon'
+12:36:21.342 [DEBUG] [org.gradle.launcher.daemon.client.DefaultDaemonStarter] Gradle daemon process is starting. Waiting for the daemon to detach...
+12:36:21.344 [DEBUG] [org.gradle.process.internal.ExecHandleRunner] waiting until streams are handled...
+12:36:21.345 [DEBUG] [org.gradle.launcher.daemon.bootstrap.DaemonOutputConsumer] Starting consuming the daemon process output.
+12:36:21.350 [DEBUG] [org.gradle.launcher.daemon.bootstrap.DaemonOutputConsumer] daemon out: Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=512m; support was removed in 8.0
+12:36:21.351 [DEBUG] [org.gradle.launcher.daemon.bootstrap.DaemonOutputConsumer] daemon out: Please use CMSClassUnloadingEnabled in place of CMSPermGenSweepingEnabled in the future
+12:36:23.334 [DEBUG] [org.gradle.launcher.daemon.bootstrap.DaemonOutputConsumer] daemon out: Daemon started. About to close the streams. Daemon details: 0100053138353537002439313136623464662d663266322d346635312d393264322d6137626236613664666136388cc6c76987eb46b8b2f5ea730e48c7d70000a64b00000001000000047f000001003a2f6e66732f75736572732f62313835392f2e677261646c652f6461656d6f6e2f342e352e312f6461656d6f6e2d31383535372e6f75742e6c6f67
+12:36:23.336 [DEBUG] [org.gradle.process.internal.DefaultExecHandle] Changing state to: DETACHED
+12:36:23.336 [DEBUG] [org.gradle.process.internal.DefaultExecHandle] Process 'Gradle build daemon' finished with exit value 0 (state: DETACHED)
+12:36:23.336 [DEBUG] [org.gradle.launcher.daemon.client.DefaultDaemonStarter] Gradle daemon process is now detached.
+12:36:23.341 [INFO] [org.gradle.launcher.daemon.client.DefaultDaemonStarter] An attempt to start the daemon took 2.1 secs.
+12:36:23.343 [DEBUG] [org.gradle.launcher.daemon.client.DefaultDaemonConnector] Started Gradle daemon DaemonStartupInfo{pid=18557, uid=9116b4df-f2f2-4f51-92d2-a7bb6a6dfa68, address=[8cc6c769-87eb-46b8-b2f5-ea730e48c7d7 port:42571, addresses:[/127.0.0.1]], diagnostics={pid=18557, daemonLog=/nfs/users/b1859/.gradle/daemon/4.5.1/daemon-18557.out.log}}
+12:36:23.345 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:23.347 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:23.348 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:23.350 [DEBUG] [org.gradle.internal.remote.internal.inet.TcpOutgoingConnector] Attempting to connect to [8cc6c769-87eb-46b8-b2f5-ea730e48c7d7 port:42571, addresses:[/127.0.0.1]].
+12:36:23.350 [DEBUG] [org.gradle.internal.remote.internal.inet.TcpOutgoingConnector] Trying to connect to address /127.0.0.1.
+12:36:23.360 [DEBUG] [org.gradle.internal.remote.internal.inet.TcpOutgoingConnector] Connected to address /127.0.0.1:42571.
+12:36:23.392 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClient] Connected to daemon DaemonInfo{pid=18557, address=[8cc6c769-87eb-46b8-b2f5-ea730e48c7d7 port:42571, addresses:[/127.0.0.1]], state=Busy, lastBusy=1518521783313, context=DefaultDaemonContext[uid=9116b4df-f2f2-4f51-92d2-a7bb6a6dfa68,javaHome=/pool/bhf/opt_java/jdk1.8.0_121,daemonRegistryDir=/nfs/users/b1859/.gradle/daemon,pid=18557,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=512m,-XX:+CMSClassUnloadingEnabled,-XX:+CMSPermGenSweepingEnabled,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=utf-8,-Duser.country=US,-Duser.language=en,-Duser.variant]}. Dispatching request Build{id=76e60da4-83d6-40c4-b51f-a6772434cce1.1, currentDir=/nfs/users/b1859/gradle/gradle-bug-4310}.
+12:36:23.392 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientConnection] thread 1: dispatching class org.gradle.launcher.daemon.protocol.Build
+12:36:23.858 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClient] Received result org.gradle.launcher.daemon.protocol.BuildStarted@4efc180e from daemon DaemonInfo{pid=18557, address=[8cc6c769-87eb-46b8-b2f5-ea730e48c7d7 port:42571, addresses:[/127.0.0.1]], state=Busy, lastBusy=1518521783313, context=DefaultDaemonContext[uid=9116b4df-f2f2-4f51-92d2-a7bb6a6dfa68,javaHome=/pool/bhf/opt_java/jdk1.8.0_121,daemonRegistryDir=/nfs/users/b1859/.gradle/daemon,pid=18557,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=512m,-XX:+CMSClassUnloadingEnabled,-XX:+CMSPermGenSweepingEnabled,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=utf-8,-Duser.country=US,-Duser.language=en,-Duser.variant]} (build should be starting).
+12:36:23.868 [INFO] [org.gradle.launcher.daemon.server.exec.LogToClient] The client will now receive all logging from the daemon (pid: 18557). The daemon log file: /nfs/users/b1859/.gradle/daemon/4.5.1/daemon-18557.out.log
+12:36:23.875 [INFO] [org.gradle.launcher.daemon.server.exec.LogAndCheckHealth] Starting build in new daemon [memory: 954.7 MB]
+12:36:23.893 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] The daemon has started executing the build.
+12:36:23.894 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] Executing build with daemon context: DefaultDaemonContext[uid=9116b4df-f2f2-4f51-92d2-a7bb6a6dfa68,javaHome=/pool/bhf/opt_java/jdk1.8.0_121,daemonRegistryDir=/nfs/users/b1859/.gradle/daemon,pid=18557,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=512m,-XX:+CMSClassUnloadingEnabled,-XX:+CMSPermGenSweepingEnabled,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=utf-8,-Duser.country=US,-Duser.language=en,-Duser.variant]
+12:36:24.223 [INFO] [org.gradle.internal.work.DefaultWorkerLeaseService] Using 8 worker leases.
+12:36:24.260 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Creating new cache for fileHashes, path /nfs/users/b1859/.gradle/caches/4.5.1/fileHashes/fileHashes.bin, access org.gradle.cache.internal.DefaultCacheAccess@6d3f2a2f
+12:36:24.269 [DEBUG] [org.gradle.api.internal.changedetection.state.InMemoryCacheDecoratorFactory] Creating in-memory store for cache /nfs/users/b1859/.gradle/caches/4.5.1/fileHashes/fileHashes.bin (max size: 400000)
+12:36:24.271 [DEBUG] [org.gradle.cache.internal.LockOnDemandCrossProcessCacheAccess] Acquiring file lock for file hash cache (/nfs/users/b1859/.gradle/caches/4.5.1/fileHashes)
+12:36:24.275 [DEBUG] [org.gradle.cache.internal.locklistener.DefaultFileLockContentionHandler] Starting file lock listener thread.
+12:36:24.275 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on file hash cache (/nfs/users/b1859/.gradle/caches/4.5.1/fileHashes).
+12:36:24.281 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on file hash cache (/nfs/users/b1859/.gradle/caches/4.5.1/fileHashes).
+12:36:24.296 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Creating new cache for resourceHashesCache, path /nfs/users/b1859/.gradle/caches/4.5.1/fileHashes/resourceHashesCache.bin, access org.gradle.cache.internal.DefaultCacheAccess@6d3f2a2f
+12:36:24.297 [DEBUG] [org.gradle.api.internal.changedetection.state.InMemoryCacheDecoratorFactory] Creating in-memory store for cache /nfs/users/b1859/.gradle/caches/4.5.1/fileHashes/resourceHashesCache.bin (max size: 400000)
+12:36:24.362 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Creating new cache for fileHashes, path /nfs/users/b1859/gradle/gradle-bug-4310/.gradle/4.5.1/fileHashes/fileHashes.bin, access org.gradle.cache.internal.DefaultCacheAccess@957d0ed
+12:36:24.362 [DEBUG] [org.gradle.api.internal.changedetection.state.InMemoryCacheDecoratorFactory] Creating in-memory store for cache /nfs/users/b1859/gradle/gradle-bug-4310/.gradle/4.5.1/fileHashes/fileHashes.bin (max size: 400000)
+12:36:24.363 [DEBUG] [org.gradle.cache.internal.LockOnDemandCrossProcessCacheAccess] Acquiring file lock for file hash cache (/nfs/users/b1859/gradle/gradle-bug-4310/.gradle/4.5.1/fileHashes)
+12:36:24.365 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on file hash cache (/nfs/users/b1859/gradle/gradle-bug-4310/.gradle/4.5.1/fileHashes).
+12:36:24.371 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on file hash cache (/nfs/users/b1859/gradle/gradle-bug-4310/.gradle/4.5.1/fileHashes).
+12:36:24.737 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Run build' started
+12:36:24.748 [DEBUG] [org.gradle.internal.work.DefaultWorkerLeaseService] Worker lease root.1 started (1 worker(s) in use).
+12:36:24.749 [DEBUG] [org.gradle.internal.resources.AbstractTrackedResourceLock] Daemon worker: acquired lock on root.1
+12:36:24.750 [INFO] [org.gradle.internal.buildevents.BuildLogger] Starting Build
+12:36:24.750 [DEBUG] [org.gradle.internal.buildevents.BuildLogger] Gradle user home: /nfs/users/b1859/.gradle
+12:36:24.751 [DEBUG] [org.gradle.internal.buildevents.BuildLogger] Current dir: /nfs/users/b1859/gradle/gradle-bug-4310
+12:36:24.751 [DEBUG] [org.gradle.internal.buildevents.BuildLogger] Settings file: null
+12:36:24.751 [DEBUG] [org.gradle.internal.buildevents.BuildLogger] Build file: null
+12:36:24.752 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Load build' started
+12:36:24.756 [DEBUG] [org.gradle.initialization.buildsrc.BuildSourceBuilder] Starting to build the build sources.
+12:36:24.756 [DEBUG] [org.gradle.initialization.buildsrc.BuildSourceBuilder] Gradle source dir does not exist. We leave.
+12:36:24.761 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Evaluate settings' started
+12:36:24.762 [DEBUG] [org.gradle.initialization.DefaultGradlePropertiesLoader] Found env project properties: []
+12:36:24.762 [DEBUG] [org.gradle.initialization.DefaultGradlePropertiesLoader] Found system project properties: []
+12:36:25.123 [DEBUG] [org.gradle.initialization.ScriptEvaluatingSettingsProcessor] Timing: Processing settings took: 0.358 secs
+12:36:25.123 [INFO] [org.gradle.internal.buildevents.BuildLogger] Settings evaluated using settings file '/nfs/users/b1859/gradle/gradle-bug-4310/settings.gradle'.
+12:36:25.128 [DEBUG] [org.gradle.caching.configuration.internal.DefaultBuildCacheConfiguration] Found class org.gradle.caching.local.internal.DirectoryBuildCacheServiceFactory registered for class org.gradle.caching.local.DirectoryBuildCache
+12:36:25.136 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Finalize build cache configuration' started
+12:36:25.137 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Completing Build operation 'Finalize build cache configuration'
+12:36:25.138 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Finalize build cache configuration' completed
+12:36:25.139 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Completing Build operation 'Evaluate settings'
+12:36:25.139 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Evaluate settings' completed
+12:36:25.144 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Completing Build operation 'Load build'
+12:36:25.144 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Load build' completed
+12:36:25.145 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Configure build' started
+12:36:25.146 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Load projects' started
+12:36:25.356 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Transitioning model element '<root>' from state Registered to Created
+12:36:25.362 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Transitioning model element '<root>' to state Discovered.
+12:36:25.364 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Transitioning model element '<root>' to state Created.
+12:36:25.391 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks' (hidden = false)
+12:36:25.399 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Transitioning model element 'tasks' from state Registered to Created
+12:36:25.401 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Running model element 'tasks' rule action Project.<init>.tasks()
+12:36:25.401 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Mutating tasks using Project.<init>.tasks()
+12:36:25.403 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Transitioning model element 'tasks' to state Discovered.
+12:36:25.403 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Running model element 'tasks' rule action Project.<init>.tasks()
+12:36:25.403 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Mutating tasks using Project.<init>.tasks()
+12:36:25.423 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Transitioning model element 'tasks' to state Created.
+12:36:25.435 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'serviceRegistry' (hidden = true)
+12:36:25.436 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'buildDir' (hidden = true)
+12:36:25.436 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'projectIdentifier' (hidden = true)
+12:36:25.437 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'extensionContainer' (hidden = true)
+12:36:25.511 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'fileOperations' (hidden = true)
+12:36:25.513 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'sourceDirectorySetFactory' (hidden = true)
+12:36:25.513 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'taskFactory' (hidden = true)
+12:36:25.513 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'instantiator' (hidden = true)
+12:36:25.514 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'typeConverter' (hidden = true)
+12:36:25.514 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'nodeInitializerRegistry' (hidden = true)
+12:36:25.514 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'structBindingsStore' (hidden = true)
+12:36:25.515 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'proxyFactory' (hidden = true)
+12:36:25.515 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'schemaStore' (hidden = true)
+12:36:25.516 [DEBUG] [org.gradle.initialization.ProjectPropertySettingBuildLoader] Looking for project properties from: /nfs/users/b1859/gradle/gradle-bug-4310/gradle.properties
+12:36:25.516 [DEBUG] [org.gradle.initialization.ProjectPropertySettingBuildLoader] project property file does not exists. We continue!
+12:36:25.524 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Completing Build operation 'Load projects'
+12:36:25.525 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Load projects' completed
+12:36:25.525 [INFO] [org.gradle.internal.buildevents.BuildLogger] Projects loaded. Root project using build file '/nfs/users/b1859/gradle/gradle-bug-4310/build.gradle'.
+12:36:25.527 [INFO] [org.gradle.internal.buildevents.BuildLogger] Included projects: [root project 'gradle-bug-4310']
+12:36:25.529 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Execute 'rootProject {}' action' started
+12:36:25.530 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Cross-configure project :' started
+12:36:25.531 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Completing Build operation 'Cross-configure project :'
+12:36:25.531 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Cross-configure project :' completed
+12:36:25.531 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Completing Build operation 'Execute 'rootProject {}' action'
+12:36:25.531 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Execute 'rootProject {}' action' completed
+12:36:25.540 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Configure project :' started
+12:36:25.616 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.init' (hidden = false)
+12:36:25.618 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.wrapper' (hidden = false)
+12:36:25.633 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Apply plugin org.gradle.help-tasks to root project 'gradle-bug-4310'' started
+12:36:25.637 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.help' (hidden = false)
+12:36:25.638 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.projects' (hidden = false)
+12:36:25.639 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.tasks' (hidden = false)
+12:36:25.640 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.properties' (hidden = false)
+12:36:25.642 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.dependencyInsight' (hidden = false)
+12:36:25.644 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.dependencies' (hidden = false)
+12:36:25.644 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.buildEnvironment' (hidden = false)
+12:36:25.645 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.components' (hidden = false)
+12:36:25.646 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.model' (hidden = false)
+12:36:25.647 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Project : - Registering model element 'tasks.dependentComponents' (hidden = false)
+12:36:25.656 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Completing Build operation 'Apply plugin org.gradle.help-tasks to root project 'gradle-bug-4310''
+12:36:25.657 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Apply plugin org.gradle.help-tasks to root project 'gradle-bug-4310'' completed
+12:36:25.657 [INFO] [org.gradle.configuration.project.BuildScriptProcessor] Evaluating root project 'gradle-bug-4310' using build file '/nfs/users/b1859/gradle/gradle-bug-4310/build.gradle'.
+12:36:25.659 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Apply script build.gradle to root project 'gradle-bug-4310'' started
+12:36:25.687 [DEBUG] [org.gradle.cache.internal.btree.BTreePersistentIndexedCache] Opening cache fileHashes.bin (/nfs/users/b1859/.gradle/caches/4.5.1/fileHashes/fileHashes.bin)
+12:36:25.710 [DEBUG] [org.gradle.cache.internal.btree.BTreePersistentIndexedCache] Opening cache fileHashes.bin (/nfs/users/b1859/gradle/gradle-bug-4310/.gradle/4.5.1/fileHashes/fileHashes.bin)
+12:36:25.719 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on cp_proj remapped class cache for 204ujjvkvgfa1c11vk59xu0vy (/nfs/users/b1859/.gradle/caches/4.5.1/scripts-remapped/build_3vu5x9rl8as7ztya45pb720yq/204ujjvkvgfa1c11vk59xu0vy/cp_proj4a3ff7b7cd19e4638e29712cae02e796).
+12:36:25.720 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on cp_proj remapped class cache for 204ujjvkvgfa1c11vk59xu0vy (/nfs/users/b1859/.gradle/caches/4.5.1/scripts-remapped/build_3vu5x9rl8as7ztya45pb720yq/204ujjvkvgfa1c11vk59xu0vy/cp_proj4a3ff7b7cd19e4638e29712cae02e796).
+12:36:25.722 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on cp_proj remapped class cache for 204ujjvkvgfa1c11vk59xu0vy (/nfs/users/b1859/.gradle/caches/4.5.1/scripts-remapped/build_3vu5x9rl8as7ztya45pb720yq/204ujjvkvgfa1c11vk59xu0vy/cp_proj4a3ff7b7cd19e4638e29712cae02e796).
+12:36:25.913 [DEBUG] [org.gradle.api.internal.artifacts.mvnsettings.DefaultLocalMavenRepositoryLocator] No local repository in Settings file defined. Using default path: /home/users/b1859/.m2/repository
+12:36:26.161 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Creating new cache for metadata-1.1/results, path /nfs/users/b1859/.gradle/caches/transforms-1/metadata-1.1/results.bin, access org.gradle.cache.internal.DefaultCacheAccess@34f238e2
+12:36:26.162 [DEBUG] [org.gradle.api.internal.changedetection.state.InMemoryCacheDecoratorFactory] Creating in-memory store for cache /nfs/users/b1859/.gradle/caches/transforms-1/metadata-1.1/results.bin (max size: 1000)
+12:36:26.162 [DEBUG] [org.gradle.cache.internal.LockOnDemandCrossProcessCacheAccess] Acquiring file lock for Artifact transforms cache (/nfs/users/b1859/.gradle/caches/transforms-1)
+12:36:26.164 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on Artifact transforms cache (/nfs/users/b1859/.gradle/caches/transforms-1).
+12:36:26.171 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on Artifact transforms cache (/nfs/users/b1859/.gradle/caches/transforms-1).
+12:36:26.320 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Resolve dependencies of :classpath' started
+12:36:26.359 [DEBUG] [org.gradle.api.internal.artifacts.ivyservice.resolveengine.DefaultArtifactDependencyResolver] Resolving configuration ':classpath'
+12:36:26.395 [DEBUG] [org.gradle.api.internal.artifacts.ivyservice.ivyresolve.memcache.InMemoryCachedRepositoryFactory] Creating new in-memory cache for repo 'Gradle Central Plugin Repository' [8ae629c38e67401a3e81c38615c26d84].
+12:36:26.402 [DEBUG] [org.gradle.api.internal.artifacts.ivyservice.ivyresolve.memcache.InMemoryCachedRepositoryFactory] Creating new in-memory cache for repo 'maven' [fe2cdb397cfdf98b5bb5f8ad28210701].
+12:36:26.448 [DEBUG] [org.gradle.api.internal.artifacts.ivyservice.resolveengine.graph.builder.DependencyGraphBuilder] Visiting configuration :gradle-bug-4310:unspecified(classpath).
+12:36:26.462 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Creating new cache for metadata-2.51/module-metadata, path /nfs/users/b1859/.gradle/caches/modules-2/metadata-2.51/module-metadata.bin, access org.gradle.cache.internal.DefaultCacheAccess@3a8873da
+12:36:26.464 [DEBUG] [org.gradle.cache.internal.LockOnDemandCrossProcessCacheAccess] Acquiring file lock for artifact cache (/nfs/users/b1859/.gradle/caches/modules-2)
+12:36:26.466 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on artifact cache (/nfs/users/b1859/.gradle/caches/modules-2).
+12:36:26.472 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on artifact cache (/nfs/users/b1859/.gradle/caches/modules-2).
+12:36:26.473 [DEBUG] [org.gradle.cache.internal.btree.BTreePersistentIndexedCache] Opening cache module-metadata.bin (/nfs/users/b1859/.gradle/caches/modules-2/metadata-2.51/module-metadata.bin)
+12:36:26.476 [DEBUG] [org.gradle.api.internal.artifacts.ivyservice.ivyresolve.RepositoryChainComponentMetaDataResolver] Attempting to resolve component for gradle.plugin.org.liquibase:liquibase-gradle-plugin:1.2.4 using repositories [Gradle Central Plugin Repository, maven]
+12:36:26.487 [DEBUG] [org.gradle.api.internal.artifacts.repositories.resolver.DefaultExternalResourceArtifactResolver] Loading https://plugins.gradle.org/m2/gradle/plugin/org/liquibase/liquibase-gradle-plugin/1.2.4/liquibase-gradle-plugin-1.2.4.pom
+12:36:26.490 [DEBUG] [org.gradle.internal.resource.transfer.DefaultCacheAwareExternalResourceAccessor] Constructing external resource: https://plugins.gradle.org/m2/gradle/plugin/org/liquibase/liquibase-gradle-plugin/1.2.4/liquibase-gradle-plugin-1.2.4.pom
+12:36:26.491 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Creating new cache for metadata-2.51/resource-at-url, path /nfs/users/b1859/.gradle/caches/modules-2/metadata-2.51/resource-at-url.bin, access org.gradle.cache.internal.DefaultCacheAccess@3a8873da
+12:36:26.491 [DEBUG] [org.gradle.cache.internal.btree.BTreePersistentIndexedCache] Opening cache resource-at-url.bin (/nfs/users/b1859/.gradle/caches/modules-2/metadata-2.51/resource-at-url.bin)
+12:36:26.515 [DEBUG] [org.gradle.internal.progress.DefaultBuildOperationExecutor] Build operation 'Metadata of https://plugins.gradle.org/m2/gradle/plugin/org/liquibase/liquibase-gradle-plugin/1.2.4/liquibase-gradle-plugin-1.2.4.pom' started
+12:36:26.515 [DEBUG] [org.gradle.internal.resource.transport.http.HttpResourceAccessor] Constructing external resource metadata: https://plugins.gradle.org/m2/gradle/plugin/org/liquibase/liquibase-gradle-plugin/1.2.4/liquibase-gradle-plugin-1.2.4.pom
+12:36:26.521 [DEBUG] [org.gradle.internal.resource.transport.http.HttpClientHelper] Performing HTTP HEAD: https://plugins.gradle.org/m2/gradle/plugin/org/liquibase/liquibase-gradle-plugin/1.2.4/liquibase-gradle-plugin-1.2.4.pom
+12:36:26.894 [DEBUG] [org.apache.http.client.protocol.RequestAddCookies] CookieSpec selected: default
+12:36:26.911 [DEBUG] [org.apache.http.client.protocol.RequestAuthCache] Auth cache not set in the context
+12:36:26.913 [DEBUG] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] Connection request: [route: {s}->https://plugins.gradle.org:443][total kept alive: 0; route allocated: 0 of 20; total allocated: 0 of 20]
+12:36:26.939 [DEBUG] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager] Connection leased: [id: 0][route: {s}->https://plugins.gradle.org:443][total kept alive: 0; route allocated: 1 of 20; total allocated: 1 of 20]
+12:36:26.941 [DEBUG] [org.apache.http.impl.execchain.MainClientExec] Opening connection {s}->https://plugins.gradle.org:443
+12:36:26.945 [DEBUG] [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] Connecting to plugins.gradle.org/104.16.172.166:443
+12:36:26.946 [DEBUG] [org.apache.http.conn.ssl.SSLConnectionSocketFactory] Connecting socket to plugins.gradle.org/104.16.172.166:443 with timeout 30000
+12:36:33.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:36:33.357 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:33.359 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:33.361 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:33.365 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:33.367 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:33.368 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:43.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:36:43.379 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:43.407 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:43.411 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:43.430 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:43.435 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:43.437 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:53.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:36:53.354 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:53.363 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:53.365 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:53.373 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:36:53.376 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:36:53.378 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:36:56.978 [DEBUG] [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] Connect to plugins.gradle.org/104.16.172.166:443 timed out. Connection will be retried using another IP address
+12:36:56.978 [DEBUG] [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] Connecting to plugins.gradle.org/104.16.171.166:443
+12:36:56.978 [DEBUG] [org.apache.http.conn.ssl.SSLConnectionSocketFactory] Connecting socket to plugins.gradle.org/104.16.171.166:443 with timeout 30000
+12:37:03.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:37:03.403 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:03.415 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:03.431 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:03.435 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:03.439 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:03.442 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:13.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:37:13.348 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:13.350 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:13.352 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:13.355 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:13.356 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:13.357 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:23.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:37:23.348 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:23.351 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:23.354 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:23.357 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:23.359 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:23.360 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:27.009 [DEBUG] [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] Connect to plugins.gradle.org/104.16.171.166:443 timed out. Connection will be retried using another IP address
+12:37:27.009 [DEBUG] [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] Connecting to plugins.gradle.org/104.16.174.166:443
+12:37:27.010 [DEBUG] [org.apache.http.conn.ssl.SSLConnectionSocketFactory] Connecting socket to plugins.gradle.org/104.16.174.166:443 with timeout 30000
+12:37:33.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:37:33.347 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:33.349 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:33.351 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:33.354 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:33.356 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:33.357 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:43.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:37:43.349 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:43.351 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:43.353 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:43.357 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:43.360 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:43.361 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:53.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:37:53.364 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:53.368 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:53.373 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:53.387 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:37:53.392 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:37:53.398 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:37:57.041 [DEBUG] [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] Connect to plugins.gradle.org/104.16.174.166:443 timed out. Connection will be retried using another IP address
+12:37:57.041 [DEBUG] [org.apache.http.impl.conn.DefaultHttpClientConnectionOperator] Connecting to plugins.gradle.org/104.16.173.166:443
+12:37:57.042 [DEBUG] [org.apache.http.conn.ssl.SSLConnectionSocketFactory] Connecting socket to plugins.gradle.org/104.16.173.166:443 with timeout 30000
+12:38:03.345 [DEBUG] [org.gradle.launcher.daemon.server.Daemon] DaemonExpirationPeriodicCheck running
+12:38:03.349 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:38:03.353 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:38:03.354 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:38:03.371 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+12:38:03.374 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+12:38:03.378 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+12:38:05.848 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientInputForwarder] Dispatching close input message: org.gradle.launcher.daemon.protocol.CloseInput@395f59c1
+12:38:05.848 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientConnection] thread 17: dispatching class org.gradle.launcher.daemon.protocol.CloseInput
+12:38:05.849 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 16: received class org.gradle.launcher.daemon.protocol.CloseInput
+12:38:05.850 [DEBUG] [org.gradle.launcher.daemon.server.DefaultDaemonConnection] thread 16: Received IO message from client: org.gradle.launcher.daemon.protocol.CloseInput@4f593f39
+12:38:05.851 [INFO] [org.gradle.launcher.daemon.server.exec.ForwardClientInput] Closing daemon's stdin at end of input.
+12:38:05.851 [INFO] [org.gradle.launcher.daemon.server.exec.ForwardClientInput] The daemon will no longer process any standard input.
